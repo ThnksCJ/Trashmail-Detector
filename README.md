@@ -3,7 +3,7 @@ Original Idea from [DevStorageEU](https://github.com/DevStorageEU/Trashmail-Dete
 
 The Trash Mail Detector API is a RESTful API that allows you to detect throwaway email addresses.
 
-The database now contains roughly 58,000 domains and is automatically updated every day.
+The database now contains roughly 140,000 domains and is automatically updated every day.
 
 This makes it easy to find email addresses that are unlikely to be legitimate, like spammer or phisher accounts.
 
